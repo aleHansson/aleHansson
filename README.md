@@ -1,4 +1,13 @@
-### Hi there 👋
+
+Full stack developer with experience rooted in C# and JavaScript.
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=aleHansson&show_icons=true&text_bold=false&title_color=118C4F&icon_color=118C4F" /> -->
+
+# Projects
+
+## Calorie
+
+Nutrition tracking.
 
 <!--
 **aleHansson/aleHansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
