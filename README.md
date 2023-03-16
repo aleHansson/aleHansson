@@ -1,11 +1,11 @@
 
-Full stack developer with experience rooted in C# and JavaScript. I am currently cultivating a growing interest in object-oriented design and team management.
+Full stack developer with a rapidly growing interest in object-oriented design and team management.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=aleHansson&show_icons=true&text_bold=false&title_color=118C4F&icon_color=118C4F" /> -->
 
 # Projects
 
-My projects serve primarily as laboratories for improving my skill set as a software architect. This is where I feature the ones that have had a notable impact in this role.
+My projects serve primarily as laboratories for improving my skill set.
 
 ## Calorie
 
