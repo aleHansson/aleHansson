@@ -5,7 +5,7 @@ Full stack developer with experience rooted in C# and JavaScript. I am currently
 
 # Projects
 
-My projects serve primarily as laboratories for improving my skill set as a software architect. For this reason their repositories remain private. Presently, two of them have had a significant impact in their role.
+My projects serve primarily as laboratories for improving my skill set as a software architect. This is where I feature the ones that have had a notable impact in this role.
 
 ## Calorie
 
