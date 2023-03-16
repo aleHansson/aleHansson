@@ -1,7 +1,7 @@
 
 Full stack developer with a rapidly growing interest in object-oriented design and team management.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=aleHansson&show_icons=true&text_bold=false&title_color=118C4F&icon_color=118C4F" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=aleHansson&&count_private=true&show_icons=true&text_bold=false&title_color=118C4F&icon_color=118C4F" />
 
 # Projects
 
