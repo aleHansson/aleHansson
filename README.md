@@ -5,15 +5,15 @@ Full stack developer with a rapidly growing interest in object-oriented design a
 
 # Projects
 
-My projects serve primarily as laboratories for improving my skill set.
+Laboratories for improving my skill set.
 
 ## Calorie
 
-A nutrition tracking service consisting of a frontend and backend implementation.
+Nutrition tracking.
 
 ## Object Calisthenics
 
-An experiment in rigorious object-oriented design, following a set of [nine rules](https://williamdurand.fr/2013/06/03/object-calisthenics/).
+Experiment in rigorious object-oriented design, following a set of [nine rules](https://williamdurand.fr/2013/06/03/object-calisthenics/).
 
 <!--
 **aleHansson/aleHansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
